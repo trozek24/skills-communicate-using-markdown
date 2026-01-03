@@ -5,4 +5,7 @@ a=10
 b=20
 print("a+b=",a+b)
 ```
+- [X] Like this picture
+- [ ] hate this picture
+- [ ] neutral pov
 
